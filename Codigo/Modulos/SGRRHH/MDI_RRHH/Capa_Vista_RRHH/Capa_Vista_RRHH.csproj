@@ -58,6 +58,10 @@
     <Reference Include="Capa_Vista_Liquidaciones">
       <HintPath>..\..\Nominas2_5\Liquidaciones_Empleados\Capa_Vista_Liquidaciones\bin\Debug\Capa_Vista_Liquidaciones.dll</HintPath>
     </Reference>
+    <Reference Include="Capa_Vista_Navegador, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Componentes\Navegador2_5\Capa_Vista_Navegador\bin\Debug\Capa_Vista_Navegador.dll</HintPath>
+    </Reference>
     <Reference Include="Capa_Vista_Nominas">
       <HintPath>..\..\Nominas2_5\Capa_Vista_Nominas\bin\Debug\Capa_Vista_Nominas.dll</HintPath>
     </Reference>
@@ -69,6 +73,10 @@
     </Reference>
     <Reference Include="Capa_Vista_Reclutamiento">
       <HintPath>..\..\ReclutamientoSeleccion\Reclutamiento\Capa_Vista_Reclutamiento\bin\Debug\Capa_Vista_Reclutamiento.dll</HintPath>
+    </Reference>
+    <Reference Include="Interfac_V3, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Menus\ModernGUI_V3\bin\Debug\Interfac_V3.exe</HintPath>
     </Reference>
     <Reference Include="Modelo_Vista_AsistenciaYFaltas">
       <HintPath>..\..\Asistencia y Faltas\Modelo_Vista_AsistenciaYFaltas\bin\Debug\Modelo_Vista_AsistenciaYFaltas.dll</HintPath>
@@ -86,6 +94,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MANTENIMIENTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANTENIMIENTO.Designer.cs">
+      <DependentUpon>MANTENIMIENTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navegador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="MDI_RRHH.cs">
       <SubType>Form</SubType>
@@ -96,6 +111,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="MANTENIMIENTO.resx">
+      <DependentUpon>MANTENIMIENTO.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MDI_RRHH.resx">
       <DependentUpon>MDI_RRHH.cs</DependentUpon>
     </EmbeddedResource>

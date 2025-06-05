@@ -4,3 +4,9 @@ C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo
 C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.dll
 C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.pdb
 C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\prototipoisef2k25e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\bin\Debug\Capa_Modelo_RRHH.dll
+C:\Users\danie\Desktop\prototipoisef2k25e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\bin\Debug\Capa_Modelo_RRHH.pdb
+C:\Users\danie\Desktop\prototipoisef2k25e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\prototipoisef2k25e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\prototipoisef2k25e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.dll
+C:\Users\danie\Desktop\prototipoisef2k25e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.pdb
