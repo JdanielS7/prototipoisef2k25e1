@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\obj\Debug\Capa_Controlador_Nominas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\bin\Debug\Capa_Controlador_Nominas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\bin\Debug\Capa_Controlador_Nominas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\bin\Debug\Capa_Modelo_Nominas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\bin\Debug\Capa_Modelo_Nominas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\obj\Debug\Capa_Controlador_Nominas.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\obj\Debug\Capa_Controlador_Nominas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\obj\Debug\Capa_Controlador_Nominas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Controlador_Nominas\obj\Debug\Capa_Con.31511F21.Up2Date

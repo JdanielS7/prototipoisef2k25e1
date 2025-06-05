@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\bin\Debug\Capa_Controlador_Carrera.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\bin\Debug\Capa_Controlador_Carrera.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\obj\Debug\Capa_Controlador_Carrera.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\obj\Debug\Capa_Controlador_Carrera.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\obj\Debug\Capa_Controlador_Carrera.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\obj\Debug\Capa_Controlador_Carrera.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\bin\Debug\Capa_Modelo_Carrera.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\bin\Debug\Capa_Modelo_Carrera.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Controlador_Carrera\obj\Debug\Capa_Con.1B1AE996.Up2Date

@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.AssemblyReference.cache

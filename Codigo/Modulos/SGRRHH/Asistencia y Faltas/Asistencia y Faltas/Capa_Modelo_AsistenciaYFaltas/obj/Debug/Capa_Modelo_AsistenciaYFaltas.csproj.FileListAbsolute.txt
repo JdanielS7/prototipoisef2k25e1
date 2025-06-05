@@ -1,0 +1,5 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.pdb

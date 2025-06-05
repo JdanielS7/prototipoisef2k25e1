@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.pdb

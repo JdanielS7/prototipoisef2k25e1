@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Controlador_Evaluacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Controlador_Evaluacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Con.B61F3AC9.Up2Date

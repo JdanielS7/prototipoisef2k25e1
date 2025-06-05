@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Controlador_Consulta.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Controlador_Consulta.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Con.38E70054.Up2Date

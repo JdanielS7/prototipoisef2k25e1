@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\PercepcionesDeducciones\Capa_Modelo_PercepcionesDeducciones\bin\Debug\Capa_Modelo_PercepcionesDeducciones.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\PercepcionesDeducciones\Capa_Modelo_PercepcionesDeducciones\bin\Debug\Capa_Modelo_PercepcionesDeducciones.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\PercepcionesDeducciones\Capa_Modelo_PercepcionesDeducciones\obj\Debug\Capa_Modelo_PercepcionesDeducciones.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\PercepcionesDeducciones\Capa_Modelo_PercepcionesDeducciones\obj\Debug\Capa_Modelo_PercepcionesDeducciones.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\PercepcionesDeducciones\Capa_Modelo_PercepcionesDeducciones\obj\Debug\Capa_Modelo_PercepcionesDeducciones.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\PercepcionesDeducciones\Capa_Modelo_PercepcionesDeducciones\obj\Debug\Capa_Modelo_PercepcionesDeducciones.csproj.AssemblyReference.cache

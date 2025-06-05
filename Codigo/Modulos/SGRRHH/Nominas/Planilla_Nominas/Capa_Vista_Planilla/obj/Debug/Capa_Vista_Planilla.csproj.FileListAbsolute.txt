@@ -1,0 +1,8 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.Frm_CalculoPerpDedu.resources
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.Frm_GenPlanilla.resources
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.Properties.Resources.resources
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.ReportePlanilla.resources
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.ReportePlanilla2.resources
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Planilla_Nominas\Capa_Vista_Planilla\obj\Debug\Capa_Vista_Planilla.csproj.CoreCompileInputs.cache

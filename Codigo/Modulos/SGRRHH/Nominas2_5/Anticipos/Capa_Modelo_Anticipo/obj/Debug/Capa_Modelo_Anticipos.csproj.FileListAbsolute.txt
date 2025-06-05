@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.pdb

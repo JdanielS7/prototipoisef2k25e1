@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\bin\Debug\Capa_Modelo_Reclutamiento.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\bin\Debug\Capa_Modelo_Reclutamiento.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.csproj.AssemblyReference.cache

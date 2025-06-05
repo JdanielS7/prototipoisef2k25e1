@@ -1,0 +1,8 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\bin\Debug\Capa_Modelo_HorasExtras.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\bin\Debug\Capa_Modelo_HorasExtras.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\obj\Debug\Capa_Modelo_HorasExtras.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\obj\Debug\Capa_Modelo_HorasExtras.csproj.CopyComplete
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\obj\Debug\Capa_Modelo_HorasExtras.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\HorasExtras\Capa_Modelo_HorasExtras\obj\Debug\Capa_Modelo_HorasExtras.pdb

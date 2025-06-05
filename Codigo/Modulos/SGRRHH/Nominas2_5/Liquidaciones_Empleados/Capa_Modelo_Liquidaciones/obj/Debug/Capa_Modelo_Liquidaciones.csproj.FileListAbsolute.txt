@@ -1,0 +1,5 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.pdb

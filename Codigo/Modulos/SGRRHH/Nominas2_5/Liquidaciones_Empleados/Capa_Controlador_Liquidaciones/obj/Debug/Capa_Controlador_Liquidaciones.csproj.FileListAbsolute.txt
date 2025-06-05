@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\obj\Debug\Capa_Controlador_Liquidaciones.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\bin\Debug\Capa_Controlador_Liquidaciones.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\bin\Debug\Capa_Controlador_Liquidaciones.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\obj\Debug\Capa_Controlador_Liquidaciones.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\obj\Debug\Capa_Controlador_Liquidaciones.csproj.CopyComplete
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\obj\Debug\Capa_Controlador_Liquidaciones.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Liquidaciones_Empleados\Capa_Controlador_Liquidaciones\obj\Debug\Capa_Controlador_Liquidaciones.pdb

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\PercepcionesDeducciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8C5783-F678-4B7F-93F1-78B2567E2670}|Capa_Vista_PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones.csproj|c:\\users\\danie\\desktop\\proyectois2k25\\codigo\\modulos\\sgrrhh\\nominas\\percepcionesdeducciones\\capa_vista_percepcionesdeducciones\\frm_generacionpercepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC8C5783-F678-4B7F-93F1-78B2567E2670}|Capa_Vista_PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones.csproj|solutionrelative:capa_vista_percepcionesdeducciones\\frm_generacionpercepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8C5783-F678-4B7F-93F1-78B2567E2670}|Capa_Vista_PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones.csproj|c:\\users\\danie\\desktop\\proyectois2k25\\codigo\\modulos\\sgrrhh\\nominas\\percepcionesdeducciones\\capa_vista_percepcionesdeducciones\\frm_generaciondeducciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC8C5783-F678-4B7F-93F1-78B2567E2670}|Capa_Vista_PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones.csproj|solutionrelative:capa_vista_percepcionesdeducciones\\frm_generaciondeducciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_generacionpercepciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones\\frm_generacionpercepciones.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_PercepcionesDeducciones\\frm_generacionpercepciones.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones\\frm_generacionpercepciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Vista_PercepcionesDeducciones\\frm_generacionpercepciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:18:42.034Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_generaciondeducciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones\\frm_generaciondeducciones.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_PercepcionesDeducciones\\frm_generaciondeducciones.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\PercepcionesDeducciones\\Capa_Vista_PercepcionesDeducciones\\frm_generaciondeducciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Vista_PercepcionesDeducciones\\frm_generaciondeducciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:18:40.771Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

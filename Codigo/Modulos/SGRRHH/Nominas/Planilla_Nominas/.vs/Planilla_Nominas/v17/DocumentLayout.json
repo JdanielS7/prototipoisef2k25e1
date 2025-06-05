@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\Planilla_Nominas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0529F6-B524-47D4-A761-768070CD2C56}|Capa_Vista_Planilla\\Capa_Vista_Planilla.csproj|c:\\users\\danie\\desktop\\proyectois2k25\\codigo\\modulos\\sgrrhh\\nominas\\planilla_nominas\\capa_vista_planilla\\frm_calculoperpdedu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE0529F6-B524-47D4-A761-768070CD2C56}|Capa_Vista_Planilla\\Capa_Vista_Planilla.csproj|solutionrelative:capa_vista_planilla\\frm_calculoperpdedu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_CalculoPerpDedu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\Planilla_Nominas\\Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas\\Planilla_Nominas\\Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:18:58.353Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

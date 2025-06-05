@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Controlador_Capacitacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Controlador_Capacitacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Con.D9DA4927.Up2Date

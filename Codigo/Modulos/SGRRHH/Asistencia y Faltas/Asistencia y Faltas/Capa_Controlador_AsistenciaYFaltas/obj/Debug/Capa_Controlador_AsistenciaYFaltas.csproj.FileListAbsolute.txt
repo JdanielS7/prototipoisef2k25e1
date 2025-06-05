@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\obj\Debug\Capa_Controlador_AsistenciaYFaltas.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\obj\Debug\Capa_Controlador_AsistenciaYFaltas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\bin\Debug\Capa_Controlador_AsistenciaYFaltas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\bin\Debug\Capa_Controlador_AsistenciaYFaltas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\obj\Debug\Capa_Controlador_AsistenciaYFaltas.csproj.CopyComplete
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\obj\Debug\Capa_Controlador_AsistenciaYFaltas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Asistencia y Faltas\Capa_Controlador_AsistenciaYFaltas\obj\Debug\Capa_Controlador_AsistenciaYFaltas.pdb

@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\bin\Debug\Capa_Modelo_GD.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\bin\Debug\Capa_Modelo_GD.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.pdb

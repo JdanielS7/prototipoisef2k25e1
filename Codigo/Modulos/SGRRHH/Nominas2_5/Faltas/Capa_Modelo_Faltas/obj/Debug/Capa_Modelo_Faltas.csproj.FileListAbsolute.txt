@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Faltas\Capa_Modelo_Faltas\bin\Debug\Capa_Modelo_Faltas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Faltas\Capa_Modelo_Faltas\bin\Debug\Capa_Modelo_Faltas.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Faltas\Capa_Modelo_Faltas\obj\Debug\Capa_Modelo_Faltas.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Faltas\Capa_Modelo_Faltas\obj\Debug\Capa_Modelo_Faltas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Faltas\Capa_Modelo_Faltas\obj\Debug\Capa_Modelo_Faltas.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Faltas\Capa_Modelo_Faltas\obj\Debug\Capa_Modelo_Faltas.pdb

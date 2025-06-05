@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\bin\Debug\Capa_Controlador_GD.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\bin\Debug\Capa_Controlador_GD.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\bin\Debug\Capa_Modelo_GD.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\bin\Debug\Capa_Modelo_GD.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Controlador_GD.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Controlador_GD.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Con.FBE41C1F.Up2Date
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Controlador_GD.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Controlador_GD.pdb

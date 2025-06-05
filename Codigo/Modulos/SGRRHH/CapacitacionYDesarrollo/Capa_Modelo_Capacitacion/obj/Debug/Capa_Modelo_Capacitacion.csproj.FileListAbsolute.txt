@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.dll
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.pdb
+C:\Users\danie\Desktop\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.csproj.AssemblyReference.cache
